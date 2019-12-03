@@ -8,7 +8,7 @@ spring boot2.0+shiro+redis 前后端分离项目，Shiro-Redis实现分布式Ses
 * 安全框架：apache shiro
 * 缓存框架：redis(自定义 RedisTemplate 序列化)
 * 日志框架：logback
-* fds
+* 接口文档：swagger 2.9.2
 
 ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/6.JPG) 
 ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/1.jpg) 
@@ -16,3 +16,5 @@ spring boot2.0+shiro+redis 前后端分离项目，Shiro-Redis实现分布式Ses
 ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/3.JPG) 
 ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/4.JPG) 
 ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/5.JPG) 
+
+# 推荐一个项目
