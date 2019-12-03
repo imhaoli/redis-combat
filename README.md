@@ -27,4 +27,4 @@ spring boot2.0+shiro+redis 前后端分离项目，Shiro-Redis实现分布式Ses
  ![](https://raw.githubusercontent.com/huo785/redis-combat/master/src/main/resources/static/images/9.JPG) 
  ![](https://raw.githubusercontent.com/huo785/redis-combat/master/src/main/resources/static/images/10.jpg) 
   ![](https://raw.githubusercontent.com/huo785/redis-combat/master/src/main/resources/static/images/11.jpg) 
- ![](https://raw.githubusercontent.com/huo785/redis-combat/master/src/main/resources/static/images/12.JPG) 
+ ![](https://raw.githubusercontent.com/huo785/redis-combat/master/src/main/resources/static/images/12.jpg) 
