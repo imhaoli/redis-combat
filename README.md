@@ -18,11 +18,13 @@ spring boot2.0+shiro+redis 前后端分离项目，Shiro-Redis实现分布式Ses
 ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/5.JPG) 
 
 # 推荐一个实战项目spring boot 2.16+shiro+jwt+redis+swagger2+mybatis +thymeleaf+layui 后台权限管理管理系统，权限控制到按钮实现分布式Session共享
-## 视频在线观看
+#### 视频在线观看
 [点我](http://i.xue.taobao.com/detail.htm?spm=a2174.7765247.0.0.KXDWYJ&courseId=116855)
 
- ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E8%AF%BE%E7%A8%8B%E6%95%88%E6%9E%9C.jpg) 
- ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E8%AF%BE%E7%A8%8B%E6%95%88%E6%9E%9C12.JPG) 
+
+ ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E8%AF%A6%E6%83%85%E9%A1%B5.jpg) 
  ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2%E8%AF%B4%E6%98%8E%E6%96%B0.jpg) 
  ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E5%A4%A7%E7%BA%B2%E4%B8%80.jpg) 
  ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E5%A4%A7%E7%BA%B2%E4%B8%89.jpg) 
+  ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E8%AF%BE%E7%A8%8B%E6%95%88%E6%9E%9C.jpg) 
+ ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/%E8%AF%BE%E7%A8%8B%E6%95%88%E6%9E%9C12.JPG) 
