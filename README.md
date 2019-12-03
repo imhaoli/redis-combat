@@ -18,7 +18,7 @@ spring boot2.0+shiro+redis 前后端分离项目，Shiro-Redis实现分布式Ses
 ![](https://github.com/huo785/redis-combat/blob/master/src/main/resources/static/images/5.JPG) 
 
 # 推荐一个实战项目spring boot 2.16+shiro+jwt+redis+swagger2+mybatis +thymeleaf+layui 后台权限管理管理系统，权限控制到按钮实现分布式Session共享
-#### 视频在线观看
+#### 还提供了配套视频讲解
 [获取视频](http://i.xue.taobao.com/detail.htm?spm=a2174.7765247.0.0.KXDWYJ&courseId=116855)
 
 
